@@ -1,0 +1,30 @@
+Demo: While Loop
+While Loop iteration: 1
+While Loop iteration: 2
+While Loop iteration: 3
+While Loop iteration: 4
+While Loop iteration: 5
+
+Demo: Do-While Loop
+Do-While Loop iteration: 1
+Do-While Loop iteration: 2
+Do-While Loop iteration: 3
+Do-While Loop iteration: 4
+Do-While Loop iteration: 5
+
+Demo: For Loop with Range
+For Loop iteration: 1
+For Loop iteration: 2
+For Loop iteration: 3
+For Loop iteration: 4
+For Loop iteration: 5
+
+Demo: For Loop with Guards (only even numbers)
+Even number: 2
+Even number: 4
+Even number: 6
+Even number: 8
+Even number: 10
+
+Demo: For Loop with yield (creates a collection)
+Squares from 1 to 5: 1,4,9,16,25
