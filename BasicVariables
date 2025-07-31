@@ -1,5 +1,5 @@
-%%writefile CompleteScalaDemo.scala
-object CompleteScalaDemo{
+%%writefile BasicVariables.scala
+object BasicVariables{
   def main(args: Array[String]) : Unit={
   // Step1: Basic Syntax and variables
   val language: String = "Scala"
